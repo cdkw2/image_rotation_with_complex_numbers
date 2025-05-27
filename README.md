@@ -29,7 +29,6 @@ python image_rotator.py
 
 ## 🔮 Future Ideas
 
-```diff
 +----------[ Under Construction ]--------------------------------+
 |                                                                |
 |  [ ] Drag-and-drop image loading                               |
@@ -37,7 +36,6 @@ python image_rotator.py
 |  [ ] Complex plane overlay (show Z vs Z' positions)            |
 |                                                                |
 +----------------------------------------------------------------+
-```
 
 ## 📜 License
 MIT License - Feel free to modify and distribute!
