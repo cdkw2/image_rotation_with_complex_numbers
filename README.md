@@ -27,5 +27,17 @@ python image_rotator.py
 - Use the slider or quick buttons to set rotation angle
 - Click "Save Rotated Image" to export
 
+## 🔮 Future Ideas
+
+```diff
++----------[ Under Construction ]--------------------------------+
+|                                                                |
+|  [ ] Drag-and-drop image loading                               |
+|  [ ] Custom rotation center picker                             |
+|  [ ] Complex plane overlay (show Z vs Z' positions)            |
+|                                                                |
++----------------------------------------------------------------+
+```
+
 ## 📜 License
 MIT License - Feel free to modify and distribute!
